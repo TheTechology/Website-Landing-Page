@@ -1,4 +1,4 @@
-# Headphone Website Landing Page
+# Demo Website Landing Page
 
 ### [`Live Website`](https://headphone-three.vercel.app/)
 
